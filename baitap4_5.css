@@ -1,0 +1,9 @@
+.tip {
+  display: inline-block;
+  background-color: rgb(246, 240, 213);
+  border-left: solid orange 5px;
+  padding: 10px;
+}
+span {
+  color: orange;
+}
