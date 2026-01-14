@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* css trang web */
+form {
+  margin-left: 10px;
+}
+input {
+  width: 300px;
+}
+textarea {
+  width: 300px;
+}
+button {
+  width: 300px;
+  background-color: green;
+  color: white;
+  border-radius: 4px;
+  /* bo tròn 4 góc */
+}
