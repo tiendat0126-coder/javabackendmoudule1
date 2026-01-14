@@ -1,0 +1,16 @@
+div {
+  display: inline-block;
+  padding: 30px;
+  text-align: center;
+  background-color: bisque;
+}
+h1 {
+  color: darkblue;
+}
+button {
+  padding: 5px;
+}
+button:hover {
+  background-color: green;
+  color: aliceblue;
+}
