@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* css trang web */
+.arcticle {
+  border: solid;
+}
+.text-blue {
+  color: #3e3efd;
+}
