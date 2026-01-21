@@ -1,0 +1,53 @@
+header {
+  background-color: rgb(12, 136, 3);
+  text-align: center;
+  color: white;
+  height: 120px;
+}
+h1 {
+  padding: 10px;
+}
+.link1 {
+  position: relative;
+  right: 80px;
+}
+.link2 {
+  position: relative;
+  bottom: 19px;
+}
+.link3 {
+  position: relative;
+  bottom: 38px;
+  left: 80px;
+}
+.menu {
+  position: relative;
+  width: 200px;
+  height: 400px;
+  border: solid rgb(198, 197, 197);
+  background-color: rgba(187, 186, 185, 0.215);
+}
+img {
+  width: 200px;
+  height: 110px;
+}
+.title1 {
+  position: absolute;
+  top: 130px;
+  left: 220px;
+}
+.title2 {
+  position: relative;
+  bottom: 220px;
+  left: 210px;
+}
+
+footer {
+  position: relative;
+  bottom: 220px;
+  text-align: center;
+  background-color: rgb(72, 72, 72);
+  padding: 10px;
+  position: relative;
+  color: aliceblue;
+}
