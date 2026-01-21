@@ -1,0 +1,79 @@
+header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  position: relative;
+  background-color: rgb(27, 150, 43);
+  color: white;
+}
+.title {
+  position: absolute;
+}
+.link1 {
+  position: absolute;
+  left: 75%;
+}
+.link2 {
+  position: absolute;
+  left: 80%;
+}
+.link3 {
+  position: absolute;
+  left: 85%;
+}
+.link4 {
+  position: relative;
+  left: 91%;
+}
+.content {
+  background-color: rgba(220, 220, 220, 0.283);
+  text-align: center;
+  padding: 50px;
+}
+.content button {
+  background-color: rgb(32, 178, 51);
+  color: white;
+  border: none;
+  margin-top: 10px;
+  padding: 5px;
+  border-radius: 10%;
+}
+.feature1 {
+  background-color: rgba(128, 128, 128, 0.256);
+  text-align: center;
+  width: 300px;
+  padding: 5px;
+  margin: 15px;
+  position: relative;
+}
+.feature2 {
+  background-color: rgba(128, 128, 128, 0.256);
+  text-align: center;
+  width: 300px;
+  padding: 5px;
+  margin: 15px;
+  position: absolute;
+  left: 33%;
+  top: 300px;
+}
+.feature3 {
+  background-color: rgba(128, 128, 128, 0.256);
+  text-align: center;
+  width: 300px;
+  padding: 5px;
+  margin: 15px;
+  position: absolute;
+  left: 65%;
+  top: 300px;
+}
+footer {
+  text-align: center;
+  padding: 20px;
+  margin-top: 10px;
+  background-color: rgb(33, 25, 53);
+  color: aliceblue;
+}
+header a {
+  text-decoration: none;
+  color: aliceblue;
+}
