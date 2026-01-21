@@ -1,0 +1,104 @@
+.anh1 {
+  position: relative;
+  width: 400px;
+  height: 400px;
+}
+.anh1 img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5%;
+}
+h4 {
+  font-size: 13px;
+  background-color: red;
+  color: aliceblue;
+  width: 110px;
+  height: 19px;
+  border-radius: 20%;
+  text-align: center;
+  position: absolute;
+  bottom: 390px;
+  left: 30px;
+}
+.box1 {
+  width: 250px;
+  height: 250px;
+  background-color: rgba(191, 106, 106, 0.2);
+  position: absolute;
+  bottom: 170px;
+  left: 55px;
+  border-radius: 20%;
+}
+.box2 {
+  width: 250px;
+  height: 250px;
+  background-color: rgba(191, 106, 106, 0.1);
+  position: absolute;
+  bottom: 120px;
+  left: 120px;
+  border-radius: 20%;
+}
+.anh2 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  bottom: 350px;
+  left: 340px;
+}
+.anh2 img {
+  width: 100%;
+  height: 100%;
+  border-radius: 20%;
+}
+.a {
+  width: 40px;
+  height: 40px;
+  border: solid 1px aliceblue;
+  color: aliceblue;
+  text-align: center;
+  border-radius: 20%;
+  position: absolute;
+  bottom: 260px;
+  left: 340px;
+}
+.b {
+  width: 40px;
+  height: 40px;
+  border: solid 1px aliceblue;
+  color: aliceblue;
+  text-align: center;
+  border-radius: 20%;
+  position: absolute;
+  bottom: 190px;
+  left: 340px;
+}
+.box3 {
+  width: 2px;
+  height: 29px;
+  background-color: aliceblue;
+  position: absolute;
+  position: absolute;
+  bottom: 323px;
+  left: 360px;
+}
+.box4 {
+  width: 2px;
+  height: 29px;
+  background-color: aliceblue;
+  position: absolute;
+  position: absolute;
+  bottom: 253px;
+  left: 360px;
+}
+h2 {
+  color: aliceblue;
+  position: absolute;
+  bottom: 90px;
+  left: 20px;
+}
+p {
+  color: aliceblue;
+  position: absolute;
+  bottom: 70px;
+  left: 20px;
+}
